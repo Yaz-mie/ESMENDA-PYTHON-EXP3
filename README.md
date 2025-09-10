@@ -1,6 +1,7 @@
 # Programming Assignment 3 – Python Data Analysis
 
 **Author:** ESMENDA, Francine Jasmine Guelle T.
+
 **Course:** Advanced Computer Programming and Algorithms / ECE2112  
 
 ---
