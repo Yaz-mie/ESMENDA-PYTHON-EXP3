@@ -58,7 +58,7 @@ print(cars.loc[cars["Model"].isin(models), ["cyl", "gear"]])
 - loc[] → selects rows and columns based on labels.
 - isin() → filters multiple car models at once.
 
---
+---
 
 ## Version History
 - v1.0 – Initial notebook: loaded dataset and displayed head/tail rows.
